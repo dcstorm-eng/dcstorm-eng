@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcstorm-eng (Dave Storm)
 - 👀 I’m interested in ...
-- 🌱 I’m currently enrolled in HArvard CS50x
+- 🌱 I’m currently enrolled in Harvard CS50x
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dcstorm@gmail.com
 
