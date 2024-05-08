@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dcstorm-eng (Dave Storm)
-- 👀 I’m interested in ...
-- 🌱 I’m currently enrolled in Harvard CS50x
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dcstorm@gmail.com
+
+- I'm a Mechanical Engineer working in Aerospace.
 
 <!---
 dcstorm-eng/dcstorm-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
